@@ -1,5 +1,6 @@
 package com.javaniuniu.abstractfactory;
 
+
 public class ModernFactory extends AbastractFactory {
     @Override
     Food createFood() {
